@@ -16,5 +16,5 @@ this application was build using expo-cli
 
 ### Maintainence and updates:
 
-Hi,my name is sanat gupta and i will be maintaining this app this will include more features
+i will be maintaining this app this will include more features
 like the personilsed news on basis of location and notifications on news updates.
